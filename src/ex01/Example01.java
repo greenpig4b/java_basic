@@ -14,6 +14,7 @@ public class Example01 {
         num2.a++;
 
         System.out.println(num1.a); // static영역에 올라와있기떄문에 변수값 공유
-        System.out.println(num1.b);
+        System.out.println(num1.b); //
+
     }
 }
